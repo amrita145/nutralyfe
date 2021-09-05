@@ -1,0 +1,348 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.container-fluid{
+    padding: 0px;
+}
+header, .section-five, .section-four,.section7, .section-third, .sectiontwo-img, .section-six, .section-first {
+    min-width: 1004px;
+}
+.header-section{
+    background:#d71212 ;
+    padding: 10px 0px;
+}
+.header-section p{
+    padding: 0px;
+    margin: 0px;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+.header-section b ,.header-section span{
+    color:#ffe400;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+/*region section-1*/
+.section-first{
+    height: 744px;
+    background:url(https://buynutralyfe.com/images/secone.jpg)center top no-repeat;
+    background-repeat: no-repeat;
+    padding-bottom: 49.340%;
+}
+.sec1-img1 {
+    position: absolute;
+    top: 473px;
+    left: -138px;
+    width: 409px;
+}
+.sec1-img2{
+        position: absolute;
+        top: 427px;
+        left: -63px;
+}
+/*region end */
+/*region section*/
+.sectiontwo-img{
+    height: 591px;
+    background:url(https://buynutralyfe.com/images/sectwo.jpg)center top no-repeat;
+ 
+}
+.sec-2-content{
+    width: 500px;
+    float: left;
+}
+.sec-2-content .sec2-txt {
+    font-size: 34px;
+    color: #333;
+    margin-bottom: 20px;
+    margin-top: 53px;;
+
+}
+.sectiontwo-img .section-bottom-box {
+    top: 471px;
+}
+.sec2-txt2 {
+    font-size: 20px;
+    color: #0a7e01;
+    margin-bottom: 20px;
+}
+.sec2-txt3 {
+    font-size: 14px;
+    color: #000;
+    margin: 21px 0 0;
+    line-height: 19px;
+}
+.section-third{
+height: 761px;
+background: url(https://buynutralyfe.com/images/secthree.jpg) center top no-repeat;
+}
+
+.contentWrap {
+    width: 1004px;
+    margin: 0 auto;
+    position: relative;
+    display: table;
+}
+
+.sec-3-rgt {
+    width: 500px;
+    float: right;
+    margin-right: 15px;
+}
+.sec3-txt {
+    font-size: 34px;
+    color: #333;
+    margin: 36px 50px 0 0;
+    float: right;
+}
+.sec3-txt2 {
+    font-size: 20px;
+    color: #0a7e01;
+    margin: 15px 0 0 7px;
+    float: left;
+}
+.sec3-txt3 {
+    font-size: 14px;
+    color: #000;
+    margin: 21px 0 0 7px;
+    float: left;
+    line-height: 19px;
+    text-align: left;
+}
+.green {
+    color: #37b500;
+    margin: 27px 0 0 7px;
+}
+.helps-para {
+    width: 294px;
+    margin: 10px 0 0 7px;
+}
+.btm-left-text p {
+    font-size: 20px;
+    margin: 9px 0 0 34px;
+    font-family: MyriadProItalic;
+}
+.btm-left-text h4, .btm-left-text p {
+    color: #fff;
+     float: left;
+    line-height: 19px;
+    text-align: left;
+}
+.section-third .section-bottom-box {
+    top: 640px;
+}
+.btm-left-text {
+    float: left;
+    width: 660px;
+}
+.btm-left-text h4 {
+    font-size: 28px;
+    margin: 38px 0 0 34px;
+    font-family: MyriadProBoldItalic;
+}
+.btm-left-text h4, .btm-left-text p {
+    color: #fff;
+    float: left;
+    line-height: 19px;
+    text-align: left;
+}
+.section-bottom-box a {
+    float: left;
+    margin: 28px 0 0 30px;
+}
+.frm-btn {
+    position: relative;
+}
+.section-bottom-box {
+    position: absolute;
+    width: 100%;
+    height: 116px;
+}
+.frm-btn {
+    float: left;
+    width: 273px;
+    height: 64px;
+    background: #ffa200;
+    border-bottom: 5px solid #ff8400;
+}
+.arrow-frm {
+    width: 57px;
+    position: relative;
+    background: #ff8400;
+}
+.frm-submit {
+    width: 210px;
+    border: none;
+    background: 0 0;
+    color: #fff;
+    font-size: 23px;
+    font-weight: 700;
+}
+.section-four{
+    height: 871px;
+    background: url(https://buynutralyfe.com/images/secfour.jpg) center top no-repeat;
+}
+.sec4-txt1 {
+    float: left;
+    font-size: 29px;
+    color: #0a7e01;
+    margin: 25px 0 0 37px;
+}
+.sec4-mid {
+    float: left;
+    width: 360px;
+}
+.sec4-txt2, .sec4-txt3, .sec4-txt4 {
+    float: left;
+    font-size: 16px;
+    text-align: left;
+    margin: 26px 0 0 80px;
+}
+.sec4-txt3 {
+    margin-top: 15px;
+}
+.sec4-txt4 {
+    margin-top: 12px;
+}
+.sec4-rgt {
+    float: right;
+    margin-top: 440px;
+    width: 485px;
+}
+.sec4-rgt-txt1 {
+    color: #333;
+    float: left;
+    font-size: 34px;
+    line-height: 38px;
+    text-align: left;
+}
+.sec4-rgt-txt2 {
+    float: left;
+    line-height: 19px;
+    margin-top: 15px;
+    text-align: left;
+}
+.sec4-rgt-txt2 span {
+    font-weight: 600;
+    color: #0a7e01;
+    text-transform: uppercase;
+}
+.section-four .section-bottom-box {
+    top: 750px;
+}
+.section-five{
+    height: 929px;
+    background: url(https://buynutralyfe.com/images/secfive.jpg)center top no-repeat;
+}
+.sec-5-txt5 {
+    font-size: 34px;
+    padding: 20px 0;
+}
+.sec-5-btm, .sec-5-top {
+    float: left;
+    font-size: 16px;
+    line-height: 23px;
+    margin-left: 197px;
+    text-align: left;
+    width: 285px;
+}
+.sec-5-txt1, .sec-5-txt3 {
+    float: left;
+    margin: 10px 0 35px;
+}
+.sec-5-txt2, .sec-5-txt4 {
+    float: right;
+}
+.sec-5-btm, .sec-5-top {
+    float: left;
+    font-size: 16px;
+    line-height: 23px;
+    margin-left: 197px;
+    text-align: left;
+    width: 285px;
+}
+.sec-5-txt3, .sec-5-txt4 {
+    margin-bottom: 10px;
+    margin-left: 35px;
+    width: 310px;
+}
+.sec-5-txt4 {
+    float: left;
+    margin: 25px 0 0 35px;
+    width: 275px;
+}
+
+.section-six{
+    height: 647px;
+    background:url(https://buynutralyfe.com/images/secsix.jpg)center top no-repeat;
+}
+
+.se6-rgt-txt {
+    float: right;
+    width: 450px;
+}
+.sec-6-txt1 {
+    color: #0a7e01;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 48px;
+    margin-top: 180px;
+}
+.sec-6-txt2 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 9%;
+    padding-left: 25%;
+}
+.section-six .section-bottom-box {
+    top: 525px;
+}
+.btm-left-text {
+    float: left;
+    width: 660px;
+}
+/*region end */
+
+/*footer section*/
+.footer-section ul li a {
+    color: #666;
+    text-decoration: none;
+    display: block;
+}
+
+.footer-section li {
+    margin: auto 10px;
+    padding: 10px 5px;
+    display: block;
+}
+.footer-link{
+    display: inline-flex;
+}
+.footer-content{
+    text-align: center;
+}
+/*region end */
+
+/* region media  */
+@media(max-width:1100px){
+    .sec1-img2 {
+        position: absolute;
+        top: 427px!important;
+        left: 8px;
+    }
+    .sec1-img1 {
+        position: absolute;
+        top: 473px;
+        left: -62px!important;
+        width: 409px;
+    }
+    .sec-2-content {
+        width: 500px;
+        float: left;
+        margin-left: 20px!important;
+    }
+}
+/* end redion*/
